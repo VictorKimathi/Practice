@@ -1,0 +1,44 @@
+.database{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.form{
+    width: 700px;
+    height: 70vh;
+    background-color: aqua;
+}
+
+
+
+.form-display{
+    width: 700px;
+    height: 70vh;
+    background-color:burlywood;
+}
+
+
+.input-number{
+    width:300px;
+    height:10vh;
+    margin:5px;
+}
+
+button{
+    margin: 40px;
+    width: 150px;
+    height: 10vh;
+    background-color:chartreuse;
+    border-radius: 10px;
+}
+.contact{
+    display: flex;
+    background-color: aqua;
+    margin: 15px;
+}
+
+.contact-number{
+    margin: 60px;
+
+}
